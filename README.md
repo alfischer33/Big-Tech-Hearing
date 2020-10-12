@@ -1,4 +1,4 @@
-# Big-Tech-Hearing
+# Big Tech Hearing
 A project analyzing quantitative statistics from the house judiciary committee's Big Tech hearing in July 2020
 
 I undertook this project after watching the hearing, having made some anecdotal conclusions and wanting to see how the numbers came out. 
