@@ -7,3 +7,5 @@ spoken by the two groups compared. Secondly, I noticed that there seemed to be m
 to describe the big tech companies especially in regards to market share, to which the CEOs seemed to often respond with smaller percentages 
 that painted their companies in a differnt light. To test these hypotheses, I downloaded the transcripts of the hearing and analyzed the 
 text in a jupyter notebook. 
+
+![Words Spoken](hearing_words_visualization.png)
