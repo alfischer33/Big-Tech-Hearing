@@ -12,7 +12,9 @@ text in a jupyter notebook.
 ## Words Spoken
 As you can see from the following data, the CEOs spoke half as many words as the representatives, and averaged about 8 less words per 
 statement. This disparity is made even more clear by the fact that  12 representatives averaged more time speaking per statement than any CEO. 
+
 ![Words by CEO](words_by_ceo.png)
+
 ![Words by Person](words_by_person.png)
 
 The following graph visualizes the length at which each person spoke in terms of words:
@@ -22,6 +24,7 @@ The following graph visualizes the length at which each person spoke in terms of
 When it comes to the percentages quoted in the hearing, however, my hypothesis that the CEOs would have lower percentages quoted on average
 did not hold up. While the average percentage quoted by the representatives was much higher, this is in large part due to two extravagant
 percentages quoted by Kelly Armstrong, and the median percentages of the two groups fall within 3 points of each other.
+
 ![Percentages by CEO](pct_by_ceo.png)
 ![Percentages by person](pct_by_person.png)
 
