@@ -8,4 +8,8 @@ to describe the big tech companies especially in regards to market share, to whi
 that painted their companies in a differnt light. To test these hypotheses, I downloaded the transcripts of the hearing and analyzed the 
 text in a jupyter notebook. 
 
+The following graph visualizes the length at which each person spoke in terms of words:
 ![Words Spoken](hearing_words_visualization.png)
+
+This graph shows the percentages quoted throughout the hearing:
+![Percentages Quoted](pctquoted.png)
